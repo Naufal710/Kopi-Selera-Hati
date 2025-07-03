@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naufal710.github.io/Kopi-Selera-Hati/sitemap.xml
